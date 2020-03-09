@@ -19,8 +19,7 @@ body {
 .content {
     position: absolute;
     width: 400px;
-    height: 50px;
-    top: 50%;
+    top: 45%;
     left: 45%;
     margin-left: -50px; 
     margin-top: -25px; 
